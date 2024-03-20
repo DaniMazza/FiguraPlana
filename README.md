@@ -1,14 +1,10 @@
-<h1> 💠TEXTO💠</h1>
+<h1> 💠Figura Plana💠</h1>
 
 <div>
-⚪Texto;
+⚪Atividade para exercitar o polimorfismo e o conceito de métodos e classes abstratos;
   <br>
-⚪Texto;
+⚪Criar uma classe abstrata de Figura Plana, contendo os métodos "get área" e "get perimetro";
   <br>
-⚪Texto;
-  <br>
-⚪Texto;
-  <br>
-⚪Texto.
-
+⚪Criar 4 classes representando círculo, quadrado, triângulo e losango;
+  
 </div>
